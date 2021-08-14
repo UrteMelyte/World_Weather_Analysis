@@ -1,5 +1,6 @@
 City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 1,Belmonte,BR,78.8,few clouds,-15.8631,-38.8828,Pousada Monte Carmelo O Pão
+5,Albany,US,82.35,broken clouds,42.6001,-73.9662,
 12,Aguimes,ES,79.66,few clouds,27.9054,-15.4461,Hotel Villa de Aguimes
 13,Sinnamary,GF,83.25,scattered clouds,5.3833,-52.95,ALETHEIA Appartement Sinnamary
 19,Hambantota,LK,79.95,overcast clouds,6.1241,81.1185,Bungalow 63
@@ -12,6 +13,8 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 47,Ismailia,EG,82.65,clear sky,30.6043,32.2723,Mercure Ismailia Forsan Island Hotel
 51,Aktau,KZ,77.58,clear sky,43.65,51.2,Silk Way Hotel
 54,Vila Velha,BR,80.55,few clouds,-20.3297,-40.2925,Quality Suites Vila Velha
+64,Bara,NG,85.78,light rain,10.3744,10.7288,
+70,Merauke,ID,76.89,overcast clouds,-8.4667,140.3333,
 73,Georgetown,MY,82.33,few clouds,5.4112,100.3354,Cititel Penang
 75,Puerto Ayora,EC,76.96,overcast clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
 76,Hilo,US,76.62,light rain,19.7297,-155.09,Hilo Hawaiian Hotel
@@ -42,10 +45,12 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 122,Bardiyah,LY,80.6,clear sky,31.7561,25.0865,بورتو بردية
 124,Atuona,PF,78.08,scattered clouds,-9.8,-139.0333,Villa Enata
 130,Axim,GH,77.18,clear sky,4.8699,-2.2405,Axim Beach Resort And Spa
+133,El Espinal,MX,87.13,few clouds,16.3333,-94.0667,
 135,Vannes,FR,81.86,clear sky,47.8333,-2.5,Le Bolloch Françoise
 142,Kailua,US,78.78,few clouds,21.4022,-157.7394,Sheffield House Bed & Breakfast
 143,Manggar,ID,80.15,overcast clouds,-2.8833,108.2667,Guest Hotel
 144,Wanlaweyn,SO,76.15,overcast clouds,2.6185,44.8938,GAASHAAN HOME
+148,Murgab,TM,78.67,clear sky,37.4966,61.9714,
 154,Yabrud,SY,76.66,clear sky,33.9674,36.6574,المنزل
 159,Ribeira Grande,PT,79.2,few clouds,38.5167,-28.7,Quinta da Meia Eira
 161,Olinda,BR,76.73,scattered clouds,-8.0089,-34.8553,Hotel Albergue de Olinda
@@ -126,6 +131,7 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 335,Tshikapa,CD,84.96,scattered clouds,-6.4167,20.8,Hôtel Tshia-Muntu de Tshikapa
 336,Garden City,US,78.21,clear sky,42.3256,-83.331,Quality Inn & Suites Banquet Center
 338,Acarau,BR,86.77,broken clouds,-2.8856,-40.12,castelo pizzaria
+342,Wagar,SD,88.16,broken clouds,16.1525,36.2032,
 347,Mitsamiouli,KM,77.88,clear sky,-11.3847,43.2844,Foyer ADM
 351,Pirapora,BR,89.69,clear sky,-17.345,-44.9419,Santos Palace Hotel
 353,Madarounfa,NE,86.23,broken clouds,13.3087,7.156,Madarounfa centre ville
@@ -148,6 +154,7 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 392,Paris,FR,84.97,clear sky,48.8534,2.3488,Hôtel Britannique - Paris Centre
 394,Moyale,KE,77.97,overcast clouds,3.5167,39.0584,La Tahzan Guest House
 395,Cortez,US,85.69,broken clouds,37.3489,-108.5859,Sand Canyon National 9 Inn
+397,Amapa,BR,85.8,broken clouds,1.0,-52.0,
 398,San Policarpo,PH,76.98,overcast clouds,12.1791,125.5072,Manong Aklan Resort
 399,Lasa,IT,79.68,broken clouds,46.6166,10.7002,Pension Feldgärtenhof
 405,San Quintin,MX,77.52,clear sky,30.4833,-115.95,Don Eddie's Sport Fishing Center
@@ -156,6 +163,7 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 409,Bhatkal,IN,77.7,overcast clouds,13.9667,74.5667,Nilawar Palace
 410,Denpasar,ID,78.46,broken clouds,-8.65,115.2167,ASTON Denpasar Hotel & Convention Center
 411,Irece,BR,83.23,clear sky,-11.3042,-41.8558,RADAR INN HOTEL
+412,Mayor Pablo Lagerenza,PY,81.01,few clouds,-19.9309,-60.7718,
 415,Bayir,TR,86.52,clear sky,37.2687,28.2167,Hotel Babadag
 418,Sibolga,ID,76.08,overcast clouds,1.7427,98.7792,Hotel Syariah CN Darussalam
 420,Havre-Saint-Pierre,CA,77.36,clear sky,50.2334,-63.5986,Auberge Niapiskau
@@ -168,6 +176,7 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 444,Eyl,SO,78.4,broken clouds,7.9803,49.8164,Amiin Hotel
 446,Tamandare,BR,78.51,scattered clouds,-8.7597,-35.1047,Pousada 100 Passos
 448,Aleksandrov Gay,RU,81.01,clear sky,50.147,48.5704,Gostinitsa I.p. Yes'kov A.v
+449,Wattegama,LK,76.57,overcast clouds,6.7989,81.4808,
 452,Salamiyah,SY,79.16,clear sky,35.0113,37.0532,Gondolas Forum grandchildren and grandparents
 456,Ambon,ID,78.94,scattered clouds,-3.6954,128.1814,Swiss-Belhotel Ambon
 457,Rajkot,IN,80.56,scattered clouds,22.3,70.7833,The Imperial Palace
@@ -193,6 +202,7 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 505,Ishikawa,JP,80.92,clear sky,26.4233,127.8214,Sheraton Okinawa Sunmarina Resort
 506,Gat,IL,84.4,clear sky,31.61,34.7642,OlusHome
 515,Lucapa,AO,75.43,broken clouds,-8.4192,20.7447,Residência Ulisses Dos Santos
+518,Thinadhoo,MV,82.31,broken clouds,0.5333,72.9333,
 519,Cascais,PT,85.35,few clouds,38.6979,-9.4215,Hotel Vila Galé Cascais
 520,Sabha,LY,89.04,clear sky,27.0377,14.4283,Foundation Taaj Asala for Historical Research and Archeology
 521,Tete,MZ,80.69,few clouds,-16.1564,33.5867,Zambeze Paraíso Misterioso
@@ -226,7 +236,9 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 594,Gander,CA,82.53,broken clouds,48.9682,-54.5906,Quality Hotel & Suites
 597,Itaituba,BR,87.96,broken clouds,-4.2761,-55.9836,Hotel Campos
 598,Kahului,US,76.26,scattered clouds,20.8947,-156.47,Maui Seaside Hotel
+601,Fonte Boa,BR,77.49,overcast clouds,-2.4959,-66.2662,
 604,Qui Nhon,VN,82.08,overcast clouds,13.7667,109.2333,Hoang Yen Canary Hotel
+605,Yumen,CN,78.66,clear sky,40.2833,97.2,
 606,Padang,ID,75.72,moderate rain,-0.9492,100.3543,Mercure Padang
 608,Rosarito,MX,89.67,clear sky,32.3333,-117.0333,Hotel Festival Plaza Rosarito
 609,Ugoofaaru,MV,82.22,overcast clouds,5.6667,73.0,Ungoofaaru Inn
@@ -260,5 +272,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 681,San Onofre,CO,81.1,overcast clouds,9.7359,-75.5263,Hotel Sinai
 683,Shingu,JP,81.91,overcast clouds,33.7333,135.9833,Shingu UI Hotel
 688,Altamont,US,82.78,broken clouds,42.2068,-121.7372,Microtel Inn & Suites by Wyndham Klamath Falls
+690,Tari,NG,82.27,overcast clouds,12.4086,4.4914,
 693,Gunjur,GM,80.53,overcast clouds,13.2019,-16.7339,Kuba Lodge
 694,Oliveira Dos Brejinhos,BR,89.51,clear sky,-12.3169,-42.8961,Hotel Paraiso
